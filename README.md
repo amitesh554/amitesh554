@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student currently in final year and looking for opportunity.<br>Learning Backend in Django
+Student currently in final year and looking for opportunity.<br>Learning Backend in Django
 
 
 ## 🌐 Socials:
