@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitesh554&label=Profile%20views&color=0e75b6&style=flat" alt="amitesh554" /> </p>
 
-- 🌱 I’m currently learning **Django,SQLite**
+- 🌱 I’m currently learning **Django,Django Rest Framework**
 
 - 💬 Ask me about **Data Structures,Django**
 
