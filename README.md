@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amitesh Rai</h1>
 <h3 align="center">A passionate Backend developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lotties/programmer-coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU)">
+<img align="right" alt="Coding" width="400" src="[[https://iconscout.com/lotties/programmer-coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitesh554&label=Profile%20views&color=0e75b6&style=flat" alt="amitesh554" /> </p>
 
